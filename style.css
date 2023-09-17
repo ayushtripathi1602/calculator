@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.button{
+      padding: 18px;
+    margin: 0 2px;
+    border: 0px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    background: lightgrey;
+}
+
+
+.row{
+
+  margin: 8px 0;
+}
+
+.row input{
+  font-size: 20px;
+    margin: 0;
+    padding: 12px 38px;
+    border: 2px solid darkslategrey;
+    border-radius: 9px
+}
+
+body{
+  background-color: blanchedalmond;
+}
